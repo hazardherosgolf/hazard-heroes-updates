@@ -1,0 +1,7 @@
+{
+  "version": "5.2",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.2/Hazard.Heros.Desktop.1.0.Beta.v5.2.Setup.exe",
+  "sha256": "0a44df8d840ce9616a720b7c2ed915598008e92efdaa6d66ec91fa4c08b745be",
+  "required": false,
+  "notes": "GSPro round-completion reliability fix for beta testers."
+}
