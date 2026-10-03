@@ -1,7 +1,7 @@
 {
-  "version": "5.5",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.5/Hazard.Heros.Desktop.1.0.Beta.v5.5.Setup.exe",
-  "sha256": "7ee70bc789f736fd5618ce6cd54670a865d7b93532148a95262e583f39d51a19",
+  "version": "5.6",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.6/Hazard.Heros.Desktop.1.0.Beta.v5.6.Setup.exe",
+  "sha256": "c0a4e128daa7942e92266afc2adfd5ae6c0b18279130d6f2fb0524c448440c88",
   "required": false,
-  "notes": "Improves trusted GSPro round reconstruction, capture reliability, adaptive GSPro log discovery, diagnostics, evidence-aware AI coaching, Auto Putt handling, and Windows updater reliability."
+  "notes": "Major field-reliability update: fixes zero-shot completed rounds, improves GSPro log fallback and multiplayer filtering, hardens restart/mulligan reconstruction and penalty handling, and improves post-round UI reliability and responsive layouts."
 }
