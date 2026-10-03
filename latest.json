@@ -1,7 +1,7 @@
 {
-  "version": "5.6",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.6/Hazard.Heros.Desktop.1.0.Beta.v5.6.Setup.exe",
-  "sha256": "c0a4e128daa7942e92266afc2adfd5ae6c0b18279130d6f2fb0524c448440c88",
+  "version": "5.6.1",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.6.1/Hazard.Heros.Desktop.1.0.Beta.v5.6.1.Setup.exe",
+  "sha256": "53437fcf872d0969fc527af41215b83247a40a07a5329ba6a2d1ac133a3754cd",
   "required": false,
-  "notes": "Major field-reliability update: fixes zero-shot completed rounds, improves GSPro log fallback and multiplayer filtering, hardens restart/mulligan reconstruction and penalty handling, and improves post-round UI reliability and responsive layouts."
+  "notes": "Focused field-reliability update: supports complete 18-hole Player.log rounds when par is omitted, improves safe putting reconstruction, and adds verified Practice/Multi Range live-shot counting without allowing practice events into scored history."
 }
