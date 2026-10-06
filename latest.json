@@ -3,5 +3,5 @@
   "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build4/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.4.Setup.exe",
   "sha256": "e5da8c840aa59d2a4fdbc563cf2b65a588149c51807b6e7501b104b232f66433",
   "required": false,
-  "notes": "Beta v5.7 Build 4 adds What Killed My Round, dedicated clickable Approach Dispersion with up to 8x zoom and full approach-table scrolling, protected first-nine salvage for abandoned 18-hole sessions, stronger evidence-aware round-review wording, and final UI wrapping polish while preserving trusted GSPro capture and reconstruction safeguards."
+  "notes": "Hazard Heros Desktop v5.7 Build 4 adds What Killed My Round, dedicated clickable Approach Dispersion with up to 8x zoom and full approach-table scrolling, protected first-nine salvage for abandoned 18-hole sessions, evidence-aware round-review wording, and final UI wrapping polish."
 }
