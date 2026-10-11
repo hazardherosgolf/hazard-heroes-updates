@@ -1,8 +1,9 @@
 
 {
-  "version": "5.7 Build 7",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build7/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.7.Setup.exe",
-  "sha256": "9f559e4a2e07995cc8b8f07e3fda607c1b1674461c7fc53f7c481e34e6b61b21",
+  "version": "5.7 Build 8",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build8/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.8.Setup.exe",
+  "sha256": "9ab97d06a5c60bd9c3dff24d60aa8ece4e34ed3fbb7f6e7d4555f2f41d6e7c65",
   "required": false,
-  "notes": "Hazard Heros Desktop v5.7 Build 7 improves automatic GSPro round tracking, trusted club identification, penalty reporting, approach dispersion, AI coaching, and round-review accuracy. Additional reliability improvements support 9-hole and 18-hole rounds, Auto Putts, multiplayer sessions, and conservative handling of unconfirmed scoring events."
+  "notes": "Build 8 adds multiplayer AI Coach player selection, temporary guest round reviews, improved approach dispersion and pin recovery, separate family profiles, recovery-aware coaching, scrolling fixes, and reliability improvements for 9-hole and 18-hole GSPro rounds."
 }
+  
