@@ -1,9 +1,8 @@
 
 {
-  "version": "5.7 Build 8",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build8/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.8.Setup.exe",
-  "sha256": "9ab97d06a5c60bd9c3dff24d60aa8ece4e34ed3fbb7f6e7d4555f2f41d6e7c65",
+  "version": "5.7 Build 9",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.Setup.exe",
+  "sha256": "743b43f7dc73b02e199a460a533a07e0b766c74c3ad9d94b4c9e106e44e6499b",
   "required": false,
-  "notes": "Build 8 adds multiplayer AI Coach player selection, temporary guest round reviews, improved approach dispersion and pin recovery, separate family profiles, recovery-aware coaching, scrolling fixes, and reliability improvements for 9-hole and 18-hole GSPro rounds."
+  "notes": "Build 9 adds premium visuals, saved-family and guest multiplayer, golfer switching on Home, AI Coach and Dispersion, improved shot-detail readability, and Auto Putt coaching eligibility corrections. Live multiplayer acceptance remains in beta testing."
 }
-  
