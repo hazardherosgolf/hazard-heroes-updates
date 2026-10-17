@@ -1,8 +1,8 @@
 
 {
-  "version": "5.7 Build 9",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.Setup.exe",
-  "sha256": "743b43f7dc73b02e199a460a533a07e0b766c74c3ad9d94b4c9e106e44e6499b",
+  "version": "5.7 Build 9.2",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2-beta/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.2.Setup.exe",
+  "sha256": "b55877be14e3297fa310250058d2d35b1a711de9f959f076c6ec8662e12928d0",
   "required": false,
-  "notes": "Build 9 adds premium visuals, saved-family and guest multiplayer, golfer switching on Home, AI Coach and Dispersion, improved shot-detail readability, and Auto Putt coaching eligibility corrections. Live multiplayer acceptance remains in beta testing."
+  "notes": "Build 9.2 beta: restored R25 Home, improved AI Coach card layout, saved-golfer switching, and readable Dispersion. Live GSPro, installer upgrade, and updater acceptance still pending; back up existing golfer history before installing."
 }
