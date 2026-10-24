@@ -1,8 +1,7 @@
-
 {
-  "version": "5.7 Build 9.2",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2-beta/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.2.Setup.exe",
-  "sha256": "b55877be14e3297fa310250058d2d35b1a711de9f959f076c6ec8662e12928d0",
+  "version": "5.7 Build 9.2.1",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.1-beta/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.2.1.Setup.exe",
+  "sha256": "d433f53c80326de3bd7433d5c07b8f4ad609f0449bf989d16cddc1c6ae2b42a0",
   "required": false,
-  "notes": "Build 9.2 beta: restored R25 Home, improved AI Coach card layout, saved-golfer switching, and readable Dispersion. Live GSPro, installer upgrade, and updater acceptance still pending; back up existing golfer history before installing."
+  "notes": "Build 9.2.1 beta: approved Build 9.2 UI with Founding 50 membership and activation support. Back up existing golfer history before installing. Live integrated GSPro acceptance remains pending."
 }
