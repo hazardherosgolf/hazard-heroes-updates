@@ -1,7 +1,7 @@
 {
-  "version": "5.7 Build 9.2.1",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.1-beta/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.2.1.Setup.exe",
-  "sha256": "d433f53c80326de3bd7433d5c07b8f4ad609f0449bf989d16cddc1c6ae2b42a0",
-  "required": false,
-  "notes": "Build 9.2.1 beta: approved Build 9.2 UI with Founding 50 membership and activation support. Back up existing golfer history before installing. Live integrated GSPro acceptance remains pending."
+  "version": "5.7 Build 9.2.2",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.2-beta/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.2.2.Setup.exe",
+  "sha256": "ed5bc56890d29a1a59a7f1162cf9fb7e402bcbef2b35c67eb80cb69e7fbf445c",
+  "required": true,
+  "notes": "Build 9.2.2 paid beta: membership enforced before golf app startup with verified license; complimentary lifetime tester access supported. Existing golfer profiles and rounds preserved. Back up golfer data before installing."
 }
