@@ -1,7 +1,7 @@
 {
-  "version": "5.7 Build 9.2.2",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.2-beta/Hazard.Heros.Desktop.1.0.Beta.v5.7.Build.9.2.2.Setup.exe",
-  "sha256": "ed5bc56890d29a1a59a7f1162cf9fb7e402bcbef2b35c67eb80cb69e7fbf445c",
+  "version": "5.7 Build 9.2.3",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.3-trial-beta/Hazard.Heros.Desktop.Trial.Candidate.9.2.3.Setup.exe",
+  "sha256": "375dc1c5f28497806525cb4933c68108b6a8bb464daa4744e276348c1bf465fb",
   "required": true,
-  "notes": "Build 9.2.2 paid beta: membership enforced before golf app startup with verified license; complimentary lifetime tester access supported. Existing golfer profiles and rounds preserved. Back up golfer data before installing."
+  "notes": "Build 9.2.3 R6C: adds the email-verified three-round free trial while preserving existing paid memberships, complimentary lifetime tester licenses, saved golfer profiles, and round history. Back up golfer data before installing."
 }
