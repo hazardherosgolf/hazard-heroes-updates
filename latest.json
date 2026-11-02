@@ -1,7 +1,7 @@
 {
-  "version": "5.7 Build 9.2.3",
-  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.3-trial-beta/Hazard.Heros.Desktop.Trial.Candidate.9.2.3.Setup.exe",
-  "sha256": "375dc1c5f28497806525cb4933c68108b6a8bb464daa4744e276348c1bf465fb",
-  "required": true,
-  "notes": "Build 9.2.3 R6C: adds the email-verified three-round free trial while preserving existing paid memberships, complimentary lifetime tester licenses, saved golfer profiles, and round history. Back up golfer data before installing."
+    "version":  "5.7 Build 9.2.4",
+    "download_url":  "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.4-email-activation/Hazard.Heros.Desktop.Email.Activation.9.2.4.Setup.exe",
+    "sha256":  "2d341cda8b5c309bd7b968c4effca31b3804509c0f9e468203b94a3752474d9f",
+    "required":  true,
+    "notes":  "Build 9.2.4: simplified email activation and paste-tolerant verification codes. Keeps existing paid/tester access, free-trial rules, golfer data, Home UI, and GSPro workflow unchanged. Windows beta installer is unsigned."
 }
