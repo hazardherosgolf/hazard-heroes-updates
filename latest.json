@@ -1,7 +1,7 @@
 {
-    "version":  "5.7 Build 9.2.4",
-    "download_url":  "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.4-email-activation/Hazard.Heros.Desktop.Email.Activation.9.2.4.Setup.exe",
-    "sha256":  "2d341cda8b5c309bd7b968c4effca31b3804509c0f9e468203b94a3752474d9f",
-    "required":  true,
-    "notes":  "Build 9.2.4: simplified email activation and paste-tolerant verification codes. Keeps existing paid/tester access, free-trial rules, golfer data, Home UI, and GSPro workflow unchanged. Windows beta installer is unsigned."
+  "version": "5.7 Build 9.2.5",
+  "download_url": "https://github.com/hazardherosgolf/hazard-heroes-updates/releases/download/v5.7-build9.2.5-gspro4-r2b/Hazard.Heros.Desktop.9.2.5.R2B_SURFACE_LIES_PRIVATE.Setup.exe",
+  "sha256": "8df401c824ae0347dfc0eda0d65063fbd7a5e77ec7e836fd7329c7a411233bd0",
+  "required": true,
+  "notes": "Build 9.2.5: GSPro 4.x compatibility improvements for course/pin geometry, verified approach dispersion, surface finishing lies, and evidence-based OB/water penalties. Preserves existing golfer history, profiles, membership, trial rules, and 9-hole/18-hole scoring. Historical saved rounds are not automatically reprocessed. Windows beta installer is unsigned."
 }
